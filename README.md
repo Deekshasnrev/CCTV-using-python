@@ -1,2 +1,10 @@
-# CCTV-using-python
-I have created a CCTV where if you want to start the camera type 'Yes' and after recording you can stop it and it will be stored in a folder named footage and you can access the previous footages there. 
+# CCTV Surveillance System
+
+This is a simple CCTV surveillance system created using Python. The system allows you to start and stop camera recording by typing 'Yes' or 'No'. Recorded videos are stored in a folder named `footage`, where you can access previous recordings.
+
+## Features
+
+- **Start and Stop Recording**: Begin recording by typing 'Yes' and stop by typing 'No'.
+- **Storage**: Recorded videos are stored in the `footage` folder for easy access.
+- **Access Previous Footages**: All recorded footage is saved and can be reviewed later.
+
